@@ -1,11 +1,3 @@
-//
-//  main.m
-//  FB6445288
-//
-//  Created by Macmade on 02.07.19.
-//  Copyright © 2019 XS-Labs. All rights reserved.
-//
-
 @import AppKit;
 
 #import <objc/runtime.h>

@@ -3,15 +3,15 @@ FB6445288
 
 ![Status](https://img.shields.io/badge/status-open-brightgreen.svg?style=flat)
 [![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)  
-[![Donate-Patreon](https://img.shields.io/badge/donate-patreon-yellow.svg?style=flat)](https://patreon.com/macmade)
-[![Donate-Gratipay](https://img.shields.io/badge/donate-gratipay-yellow.svg?style=flat)](https://www.gratipay.com/macmade)
-[![Donate-Paypal](https://img.shields.io/badge/donate-paypal-yellow.svg?style=flat)](https://paypal.me/xslabs)
-
-## Basic Information
-
-### Please provide a descriptive title for your feedback:
+[![Sponsor](https://img.shields.io/badge/sponsor-macmade-pink.svg?logo=github-sponsors&style=social)](https://github.com/sponsors/macmade)
 
 NSAutounbinder causes a retain cycle when binding to self
+---------------------------------------------------------
+
+    Jean-David Gadina
+    Jul 2, 2019 at 8:26 PM – FB6445288
+
+## Basic Information
 
 ### Which area are you seeing an issue with?
 
